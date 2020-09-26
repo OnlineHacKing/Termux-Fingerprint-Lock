@@ -74,7 +74,7 @@ apt-get install termux-api && apt-get update && apt-get upgrade && apt-get insta
 ```
 
 ### 📱SCREENSHOT 📲
-![Shot](https://raw.githubusercontent.com/OnlineHacKing/OH-Basic/master/Screenshot_20200903-084359~2.png)
+![Shot](https://raw.githubusercontent.com/OnlineHacKing/Termux-Fingerprint-Lock/master/Screenshot_20200926-115645~2.png)
 
 
 ## Video Tutorials
