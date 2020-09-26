@@ -1,56 +1,95 @@
-# TERMUX FINGERPRINT LOCK
-### Created by [MrAlpha786](https://github.com/MrAlpha786)
-***Request:*** Please use or modify this with proper credit. Add link to my github in your README.md.
+<p align="center">
+  <img src="https://i.pinimg.com/originals/54/19/02/541902f716f7edd427cfa5a9e1230be6.png">  
+</p>
 
-_Add Fingerprint Lock to your Termux._
+<h1 align="center">Termux Fingerprint Lock - OnlineHacking</h1>
+<p align="center">
+  Welcome Banner In Termux
+</p>
 
-***Note: It's not an app lock. It's only for Termux.
-      If you don't know what Termux is, You don't need this.***
+<a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Mr.Suman || OnlineHacking-blue.svg">
 
-## Prerequisites
-1. Smartphone with Fingerprint Sensor
-2. Termux:API app installed
-3. Android 6.0+
 
-## Installation
+### MAINTAINERS
+* **SUMAN MONDAL**| 
+Twitter: <a href="https://twitter.com/suman333mondal">@suman333mondal</a>
+Github: <a href="https://github.com/OnlineHacking">@OnlineHacking</a>
+Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
-Detailed video instruction here: [YOUTUBE](https://youtu.be/A6EHpyLn3fM)
+![unnamed (2)](https://i.pinimg.com/originals/32/9b/50/329b50a3d16e930c39414b1cd32948f7.jpg)
 
-Just enter following commands in respective order:
+## Video Tutorials
 
-1.
-```bash
-wget https://raw.githubusercontent.com/MrAlpha786/termux-fingerprint-lock/master/setup
+[Video](https://youtu.be/g8GF7n0O_LI)
+
+
+# ■□■□■□■□■□■□ Commands □■□■□■□■□■□■
+
+### ☣️ Installation and Usage Guide
 ```
-or
-```bash
-curl https://raw.githubusercontent.com/MrAlpha786/termux-fingerprint-lock/master/setup > setup
+$ apt-get update
 ```
-2.  
-```bash
-chmod u+x setup
 ```
-3.
-```bash
-bash setup
+$ apt-get upgrade
 ```
-or
-```bash
-./setup
 ```
 
-## Remove Lock
-
-**[ ! ]** _Make sure you are in the same directory where the setup is saved._
-
-Enter the command below:
-
-```bash
-bash setup
 ```
-or
-```bash
-./setup
 ```
-***Note: Removing lock will remove all files. To install again you have to follow the above instructions.***
 
+```
+```
+
+```
+```
+
+```
+```
+
+```
+Now Type exit & restart Termux
+
+### Update Tool
+```
+
+```
+
+## Video Tutorials
+
+[Video](https://youtu.be/g8GF7n0O_LI)
+
+### Subscribe our channel on youtube
+https://www.youtube.com/OnlineHacking
+
+### Chekout our webite 
+www.onlinehacking-net.com
+
+# ■□■□■□■□■□■□ Warning □■□■□■□■□■□■
+
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+
+***This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool***
+
+
+# ■□■□■□■□■□■□ Social Media □■□■□■□■□■□■
+
+Website :- http://www.onlinehacking-net.com
+
+YouTube Channel :- https://bit.ly/on9youtube
+
+Telegram Change :- https://t.me/OnlineHacking
+
+Telegram Group :- https://t.me/OnlineHacking0
+
+Github :- https://github.com/OnlineHacKing
+
+Facebook :-  https://bit.ly/facebook4page
+
+Twitter :- https://bit.ly/twittersuman
+
+Instagram :- https://bit.ly/instagram9oh
+
+<a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Ms.Suman || OnlineHacking-blue.svg">
+
+
+                                       Inspired By github.com/OnlineHacking
