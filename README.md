@@ -27,7 +27,7 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
 ## Video Tutorials
 
-[Video](https://youtu.be/g8GF7n0O_LI)
+[Video](https://youtu.be/kcWlU9zhNu4)
 
 
 # ■□■□■□■□■□■□ Commands □■□■□■□■□■□■
