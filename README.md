@@ -63,10 +63,6 @@ chmod u+x setup
 Enter the command below:
 
 ```bash
-bash setup
-```
-or
-```bash
 ./setup
 ```
 ***Note: Removing lock will remove all files. To install again you have to follow the above instructions.***
