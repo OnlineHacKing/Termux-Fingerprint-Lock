@@ -47,12 +47,12 @@ or
 curl https://raw.githubusercontent.com/OnlineHacKing/Termux-Fingerprint-Lock/master/setup > setup
 ```
 ```
-```
 chmod u+x setup
 ```
 ```
 ./setup
 ```
+
 ## Remove Lock
 
 **[ ! ]** _Make sure you are in the same directory where the setup is saved._
