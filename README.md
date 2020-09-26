@@ -34,25 +34,24 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
 ### ☣️ Installation and Usage Guide
 ```
-$ apt-get update
+apt-get update && apt-get upgrade
 ```
 ```
-$ apt-get upgrade
+apt-get install wget && apt-get install curl
 ```
 ```
-
+wget https://raw.githubusercontent.com/OnlineHacKing/Termux-Fingerprint-Lock/master/setup
+```
+or
+```
+curl https://raw.githubusercontent.com/OnlineHacKing/Termux-Fingerprint-Lock/master/setup > setup
 ```
 ```
-
+```
+chmod u+x setup
 ```
 ```
-
-```
-```
-
-```
-```
-
+./setup
 ```
 ## Remove Lock
 
@@ -72,7 +71,7 @@ or
 
 ### Single Line Command
 ```
-
+apt-get update && apt-get upgrade && apt-get install git && git clone https://github.com/OnlineHacKing/Termux-Fingerprint-Lock && cd Termux-Fingerprint-Lock && chmod u+x setup && ./setup
 ```
 
 ## Video Tutorials
