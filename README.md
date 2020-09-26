@@ -74,6 +74,10 @@ or
 apt-get update && apt-get upgrade && apt-get install git && git clone https://github.com/OnlineHacKing/Termux-Fingerprint-Lock && cd Termux-Fingerprint-Lock && chmod u+x setup && ./setup
 ```
 
+### 📱SCREENSHOT 📲
+![Shot](https://raw.githubusercontent.com/OnlineHacKing/OH-Basic/master/Screenshot_20200903-084359~2.png)
+
+
 ## Video Tutorials
 
 [Video](https://youtu.be/g8GF7n0O_LI)
