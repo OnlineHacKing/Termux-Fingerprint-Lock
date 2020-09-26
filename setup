@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-# Author:  MrAlpha786   (github.com/MrAlpha786)
+# Author:  SUMAN  (github.com/Onlinehacking)
 
 ## ! If you stuck on "Authentication Required". Check:
 
@@ -36,7 +36,7 @@ echo
 echo -e $B" ┌─────────────────────────┐ "
 echo -e $B" │$C TERMUX FINGERPRINT LOCK $B│"
 echo -e $B" └─────────────────────────┘ "
-echo -e $R"  -> MrAlpha786 "
+echo -e $R"  -> Online HacKing (SUMAN) "
 echo
 echo
 
