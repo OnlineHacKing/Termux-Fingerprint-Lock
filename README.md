@@ -18,6 +18,13 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
 ![unnamed (2)](https://i.pinimg.com/originals/32/9b/50/329b50a3d16e930c39414b1cd32948f7.jpg)
 
+
+### ☢️ REREQUISITES
+
+1. Smartphone with Fingerprint Sensor
+2. Termux:API app installed
+3. Android 6.0+
+
 ## Video Tutorials
 
 [Video](https://youtu.be/g8GF7n0O_LI)
@@ -47,9 +54,23 @@ $ apt-get upgrade
 ```
 
 ```
-Now Type exit & restart Termux
+## Remove Lock
 
-### Update Tool
+**[ ! ]** _Make sure you are in the same directory where the setup is saved._
+
+Enter the command below:
+
+```bash
+bash setup
+```
+or
+```bash
+./setup
+```
+***Note: Removing lock will remove all files. To install again you have to follow the above instructions.***
+
+
+### Single Line Command
 ```
 
 ```
