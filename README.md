@@ -20,10 +20,10 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
 
 ### ☢️ REREQUISITES
-
-1. Smartphone with Fingerprint Sensor
-2. Termux:API app installed
-3. Android 6.0+
+1. [Termux App](https://play.google.com/store/apps/details?id=com.termux&hl=en_IN)
+2. [Termux API App](https://play.google.com/store/apps/details?id=com.termux.api&hl=en_IN)
+3. Smartphone with Fingerprint Sensor
+4. Android 6.0+
 
 ## Video Tutorials
 
@@ -33,6 +33,9 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 # ■□■□■□■□■□■□ Commands □■□■□■□■□■□■
 
 ### ☣️ Installation and Usage Guide
+```
+apt-get install termux-api
+```
 ```
 apt-get update && apt-get upgrade
 ```
@@ -71,7 +74,7 @@ or
 
 ### Single Line Command
 ```
-apt-get update && apt-get upgrade && apt-get install git && rm -rf Termux-Fingerprint-Lock && git clone https://github.com/OnlineHacKing/Termux-Fingerprint-Lock && cd Termux-Fingerprint-Lock && chmod u+x setup && ./setup
+apt-get install termux-api && apt-get update && apt-get upgrade && apt-get install git && rm -rf Termux-Fingerprint-Lock && git clone https://github.com/OnlineHacKing/Termux-Fingerprint-Lock && cd Termux-Fingerprint-Lock && chmod u+x setup && ./setup
 ```
 
 ### 📱SCREENSHOT 📲
