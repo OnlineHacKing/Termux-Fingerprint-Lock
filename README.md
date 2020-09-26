@@ -71,7 +71,7 @@ or
 
 ### Single Line Command
 ```
-apt-get update && apt-get upgrade && apt-get install git && git clone https://github.com/OnlineHacKing/Termux-Fingerprint-Lock && cd Termux-Fingerprint-Lock && chmod u+x setup && ./setup
+apt-get update && apt-get upgrade && apt-get install git && rm -rf Termux-Fingerprint-Lock && git clone https://github.com/OnlineHacKing/Termux-Fingerprint-Lock && cd Termux-Fingerprint-Lock && chmod u+x setup && ./setup
 ```
 
 ### 📱SCREENSHOT 📲
