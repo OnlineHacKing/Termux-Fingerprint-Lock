@@ -96,9 +96,7 @@ www.onlinehacking-net.com
 
 # ■□■□■□■□■□■□ Social Media □■□■□■□■□■□■
 
-Website :- http://www.onlinehacking-net.com
-
-YouTube Channel :- https://bit.ly/on9youtube
+Website :- http://www.onlinehacking.xyz
 
 Telegram Change :- https://t.me/OnlineHacking
 
